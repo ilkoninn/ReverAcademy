@@ -9,7 +9,7 @@ namespace DepartmentConsoleApp.Models
 {
     public class Employee
     {
-        public int Id { get; set; }
+        public int Id { get; set; } 
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
@@ -34,7 +34,26 @@ namespace DepartmentConsoleApp.Models
         }
         public int Experience { get; set; }
         public string Address { get; set; }
-        public int BirthDay { get; set; }
+        private int _birthDay;
+        public int BirthDay
+        {
+            get
+            {
+                return _birthDay;
+            }
+
+            set
+            {
+                if(2024 - value != Age)
+                {
+                    Console.WriteLine("\nThis birthday year is wrong!\n");
+                }
+                else
+                {
+                    _birthDay = value;
+                }
+            }
+        }
         public string ContactNumber { get; set; }
         public decimal Salary { get; set; }
         public EmployeeRoles EmployeeRole { get; set; }

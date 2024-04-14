@@ -1,9 +1,12 @@
-﻿namespace DepartmentConsoleApp.Models
+﻿using System.Net.Http.Headers;
+
+namespace DepartmentConsoleApp.Models
 {
     public class Department
     {
         public string Name { get; set; }
         public int EmployeeCount { get; set; }
+        public static int _id = 0;
         public Employee[] Employees;
 
         public Department()
@@ -18,19 +21,28 @@
 
         public void Create(Employee employee)
         {
+            _id += 1;
+            employee.Id = _id;
+            
             Array.Resize(ref Employees, Employees.Length + 1);
             Employees[Employees.Length - 1] = employee;
+
+            Console.WriteLine("\nNew employee has been created!\n");
         }
 
-        public void Delete(int id)
+        public bool Delete(int id)
         {
             for (int i = 0; i < Employees.Length; i++)
             {
                 if (Employees[i].Id == id)
                 {
                     Employees[i] = null;
+
+                    return true;                    
                 }
             }
+
+            return false;
         }
 
         public Employee[] GetAll()
@@ -38,19 +50,22 @@
             return Employees;
         }
 
-        public Employee GetBySearch(string search)
+        public Employee[] GetBySearch(string search)
         {
+            Employee[] searchedEmployees = new Employee[0];
+
             foreach (Employee emp in Employees)
             {
-                if (emp.FirstName.Contains(search)
-                    || emp.LastName.Contains(search)
-                    || emp.Salary.ToString().Contains(search))
+                if (emp.FirstName.ToLower().Contains(search)
+                    || emp.LastName.ToLower().Contains(search)
+                    || emp.Salary.ToString() == search)
                 {
-                    return emp;
+                    Array.Resize(ref searchedEmployees, searchedEmployees.Length + 1);
+                    searchedEmployees[searchedEmployees.Length - 1] = emp;
                 }
             }
 
-            return null;
+            return searchedEmployees;
         }
 
         public Employee GetById(int id)
@@ -61,7 +76,7 @@
                 {
                     return emp;
                 }
-            }
+            }   
 
             return null;
         }
