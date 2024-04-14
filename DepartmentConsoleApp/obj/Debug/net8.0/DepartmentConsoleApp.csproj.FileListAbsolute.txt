@@ -1,0 +1,15 @@
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\bin\Debug\net8.0\DepartmentConsoleApp.exe
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\bin\Debug\net8.0\DepartmentConsoleApp.deps.json
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\bin\Debug\net8.0\DepartmentConsoleApp.runtimeconfig.json
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\bin\Debug\net8.0\DepartmentConsoleApp.dll
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\bin\Debug\net8.0\DepartmentConsoleApp.pdb
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\DepartmentConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\DepartmentConsoleApp.AssemblyInfoInputs.cache
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\DepartmentConsoleApp.AssemblyInfo.cs
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\DepartmentConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\DepartmentConsoleApp.sourcelink.json
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\DepartmentConsoleApp.dll
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\refint\DepartmentConsoleApp.dll
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\DepartmentConsoleApp.pdb
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\DepartmentConsoleApp.genruntimeconfig.cache
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\DepartmentConsoleApp\obj\Debug\net8.0\ref\DepartmentConsoleApp.dll
