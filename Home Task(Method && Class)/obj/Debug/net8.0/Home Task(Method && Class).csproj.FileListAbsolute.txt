@@ -1,0 +1,15 @@
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\bin\Debug\net8.0\Home Task(Method && Class).exe
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\bin\Debug\net8.0\Home Task(Method && Class).deps.json
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\bin\Debug\net8.0\Home Task(Method && Class).runtimeconfig.json
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\bin\Debug\net8.0\Home Task(Method && Class).dll
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\bin\Debug\net8.0\Home Task(Method && Class).pdb
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\Home Task(Method && Class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\Home Task(Method && Class).AssemblyInfoInputs.cache
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\Home Task(Method && Class).AssemblyInfo.cs
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\Home Task(Method && Class).csproj.CoreCompileInputs.cache
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\Home Task(Method && Class).sourcelink.json
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\Home Task(Method && Class).dll
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\refint\Home Task(Method && Class).dll
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\Home Task(Method && Class).pdb
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\Home Task(Method && Class).genruntimeconfig.cache
+C:\Users\99470\OneDrive - Baku State University\Desktop\Rever Academy\Home Task(Method && Class)\obj\Debug\net8.0\ref\Home Task(Method && Class).dll
